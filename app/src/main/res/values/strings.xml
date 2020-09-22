@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="win_text">Win:</string>
+    <string name="lose_text">Lose:</string>
+    <string name="draw_text">Draw:</string>
+    <string name="result_text">Win 5 times!</string>
+    <string name="result_win_text">You won!</string>
+    <string name="result_lost_text">You lost!</string>
+    <string name="throw_text">Throw</string>
+    <string name="reset_text">Reset</string>
+    <string name="your_dice_description">Your dice image</string>
+    <string name="droid_dice_description">Droid\'s dice image</string>
+</resources>
